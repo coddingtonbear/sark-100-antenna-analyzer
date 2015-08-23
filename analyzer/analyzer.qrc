@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons/128">
+        <file>antenna-charge-radio-128.png</file>
+    </qresource>
+</RCC>
