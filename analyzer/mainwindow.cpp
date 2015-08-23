@@ -415,7 +415,7 @@ void MainWindow::Slot_menuDevice_Show()
 {
   unsigned int i;
   //QDir dir("/dev","ttyUSB*");
-  QDir dir("/dev","ttyUSB*;rfcomm*",QDir::Name | QDir::IgnoreCase,QDir::System);
+  QDir dir("/dev","ttyUSB*;tty.usbserial*;rfcomm*",QDir::Name | QDir::IgnoreCase,QDir::System);
 
 printf("dir: %d\n",dir.count());
   ui->menuDevice->clear();
