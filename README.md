@@ -23,6 +23,7 @@ From the project directory, run the following commands:
 mkdir build
 cd build
 qmake -spec linux-g++-64 -o Makefile ../analyzer/analyzer.pro
+make
 ```
 
 You can then run this software by running `./analyzer`.
@@ -35,6 +36,7 @@ From the project directory, run the following commands:
 mkdir build
 cd build
 qmake -spec macx-g++ -o Makefile ../analyzer/analyzer.pro
+make
 ```
 
 You can then run the program by running `open analyzer.app`.
