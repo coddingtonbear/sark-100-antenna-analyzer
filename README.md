@@ -1,12 +1,12 @@
+**NOTE**: *I am not the original author of this software;* this software was
+originally created by Jeremy Burton, and I have moved these changes
+here from http://jedi98.uk/antenna_analyzer.php so I can share changes
+allowing this software to be compiled and executed on OSX.
+
 SARK 100 / MINI 60 Antenna Analyzer GUI
 =======================================
 
 ![](http://jedi98.uk/images/Analyzer_Screenshot1.png)
-
-**NOTE**: I am not the original author of this software; this software was
-originally created by Jeremy Burton, and I have moved these changes
-here from http://jedi98.uk/antenna_analyzer.php so I can share changes
-allowing this software to be compiled and executed on OSX.
 
 Requirements
 ------------
