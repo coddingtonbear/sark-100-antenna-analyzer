@@ -37,7 +37,7 @@ From the project directory, run the following commands:
 ```
 mkdir build
 cd build
-qmake -spec macx-g++ -o Makefile ../analyzer/analyzer.pro
+qmake -spec macx-clang -o Makefile ../analyzer/analyzer.pro
 make
 ```
 
